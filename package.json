@@ -9,6 +9,6 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@jazzer.js/core": "^2.1.0"
+    "@jazzer.js/core": "^4.0.0"
   }
 }
